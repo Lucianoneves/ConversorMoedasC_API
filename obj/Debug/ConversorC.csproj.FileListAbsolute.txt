@@ -1,0 +1,12 @@
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\bin\Debug\ConversorC.exe.config
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\bin\Debug\ConversorC.exe
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\bin\Debug\ConversorC.pdb
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.Form1.resources
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.Properties.Resources.resources
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.exe
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.pdb
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\source\repos\ConversorC\ConversorC\obj\Debug\ConversorC.csproj.Up2Date
